@@ -2,7 +2,6 @@
 title: "Perception of time"
 date: 2026-04-19T22:02:33+03:00
 #draft: true
-tags:['contemplation']
 ---
 
 
