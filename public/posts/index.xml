@@ -13,21 +13,21 @@
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Wed, 05 Jul 2023 18:01:03 +0800</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>Greetings, this is the first post</description>
+      <description>&lt;p&gt;Greetings, this is the first post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thoughts on Linux After 3 Years</title>
       <link>http://localhost:1313/posts/thoughts-on-linux-after-3-years/</link>
       <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
       <guid>http://localhost:1313/posts/thoughts-on-linux-after-3-years/</guid>
-      <description>The beginning I have been using GNU/Linux for three years now and i wanted to share my thoughts after all this time. Like millions of others on this planet of ours, i was using windows as my primary Operating System. Every computer i have ever used had windows running on it, regardless if it was windows Xp, vista, 7, 10 or 11. As you can clearly tell, windows had complete dominance over the market.</description>
+      <description>&lt;h2 id=&#34;the-beginning&#34;&gt;The beginning&lt;/h2&gt;&#xA;&lt;p&gt;I have been using GNU/Linux for three years now and i wanted to share my thoughts after all this time. Like millions of others on this planet of ours, i was using windows as my primary Operating System. Every computer i have ever used had windows running on it, regardless if it was windows Xp, vista, 7, 10 or 11. As you can clearly tell, windows had complete dominance over the market. All of the large or well-known companies sell computers that run windows as an operating system. In fact, i have never come across a big company selling a pc that primarily runs linux as an OS. The first time i have heard about linux was 2016 or 2015 if i recall correctly, a close friend of mine&#xA;was interested in trying it out in his PC and told me about it. However, i was not fully invested on Linux yet. Fast forward to 2020, another close friend of mine sent me an image of his desktop and upon inspecting the image it was clearly not a windows desktop. It was quite &amp;ldquo;elegant&amp;rdquo; and was looking somewhat like android but on a PC. It was obvious that he customized it to a great extent. I was intrigued and asked him about what he was using and he told me that it was Linux (Arch linux to be specific). He also introduced me to the concept of Linux &amp;ldquo;distributions&amp;rdquo;, basically these distributions all have the same linux kernel but a different  package manager and desktop environment. A common analogy is going to an ice cream shop and selecting the flavor you desire. Essentially, they are all ice-cream but have different flavours. All linux distributions have the same building components.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is going to college to study software engineering worth it?</title>
       <link>http://localhost:1313/posts/cs_journey/</link>
       <pubDate>Wed, 28 Jun 2023 17:49:49 +0800</pubDate>
       <guid>http://localhost:1313/posts/cs_journey/</guid>
-      <description>Intro As i have mentioned in my about page, iam a (technically) software engineer graduate. I am genuinely grateful for the opportunity to attend college, as it has provided me with valuable lessons from both a technical and general life perspective. However, over the years, I have developed the opinion that formal education is not an absolute necessity for individuals aspiring to become software engineers. Unlike fields such as medicine or engineering, our work does not rely heavily on specialized equipment or lab facilities; a laptop alone is sufficient.</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;As i have mentioned in my about page, iam a (technically) software engineer graduate.  I am genuinely grateful for the opportunity to attend college, as it has provided me with valuable lessons from both a technical and general life perspective. However, over the years, I have developed the opinion that formal education is not an absolute necessity for individuals aspiring to become software engineers. Unlike fields such as medicine or engineering, our work does not rely heavily on specialized equipment or lab facilities; a laptop alone is sufficient. Furthermore, the internet offers a wealth of valuable resources to learn and master the various aspects of software engineering. It is worth noting that there is a significant number of self-taught software engineers who have made remarkable contributions and developed impactful projects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

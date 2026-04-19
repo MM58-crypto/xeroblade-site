@@ -8,7 +8,7 @@ tags: ['updates', 'personal', 'about']
 
 My name is MM and iam a Junior Software Engineer.
 
-This website currently lacks a defined purpose. It can be viewed as a blog where I primarily focus on computer science but can also delve into other areas. Additionally, I intend to provide posts addressing persistent errors or issues encountered in programming or OS-related matters
+This website currently lacks a defined purpose. It can be viewed as a blog where I primarily focus on computer science but can also delve into other random areas that i find interesting lel. Additionally, I intend to provide posts addressing persistent errors or issues encountered in programming or OS-related matters
 
 ### BTW I use arch! 
 
