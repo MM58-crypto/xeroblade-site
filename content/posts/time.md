@@ -8,7 +8,7 @@ date: 2026-04-19T22:02:33+03:00
 i) 
 
 
-Why is it that at times we humans feel that time stops or moves slowly and at times we don't even feel it and it's as if it flows incredibly fast. However, it is known that time doesn't change its flow or speed. It has always been the same.
+Why is it that at times we humans feel that time stops or movesslowly and at times we don't even feel it and it's as if it flows incredibly fast. However, it is known that time doesn't change its flow or speed. It has always been the same.
 So it appears that for some reason there are certain times we humans feel time differently.
 
 Our Perception of time changes or fluctuates but time itself isconstant if I am not mistaken.
