@@ -2,9 +2,9 @@
 title: "Perception of time"
 date: 2026-04-19T22:02:33+03:00
 #draft: true
+tags:['contemplation']
 ---
 
-Perception of time
 
 i) 
 Why is it that at times we humans feel that time stops or moves slowly and at times we don't even feel it and it's as if it flows incredibly fast. However, it is known that time doesn't change its flow or speed. It has always been the same.
