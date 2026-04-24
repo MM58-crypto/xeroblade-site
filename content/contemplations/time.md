@@ -5,12 +5,12 @@ date: 2026-04-19T22:02:33+03:00
 ---
 
 
-![time_img](/time_2.png)
+![time_img](/time_1.jpg)
 
 Why is it that at times we humans feel that time stops or moves slowly and at times we don't even feel it and it's as if it flows incredibly fast. However, it is known that time doesn't change its flow or speed. It has always been the same.
 So it appears that for some reason there are certain times we humans feel time differently.
 
-Our Perception of time changes or fluctuates but time itself isconstant if I am not mistaken.
+Our Perception of time changes or fluctuates but time itself is constant if I am not mistaken.
 
 Could it be related to the human biology and not something purely in physics? 
 
