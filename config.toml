@@ -73,7 +73,11 @@ url = "https://t.me/mm580"
     url = "/posts/"
     weight = 10
 
-
+  [[menu.main]]
+    identifier = "contemplations"
+    name = "Contemplations"
+    url = "/contemplations/"
+    weight = 10
 
 [taxonomies]
 category = "categories"
