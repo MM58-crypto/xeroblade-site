@@ -7,23 +7,15 @@ date: 2026-04-19T22:02:33+03:00
 
 ![time_img](/time_1.jpg)
 
-Why is it that at times we humans feel that time stops or moves slowly and at times we don't even feel it and it's as if it flows incredibly fast. However, it is known that time doesn't change its flow or speed. It has always been the same.
-So it appears that for some reason there are certain times we humans feel time differently.
+Why is it that at times we feel time stops or moves slowly, while at other times we barely notice it, as if it flows incredibly fast? It is known that time itself does not change its speed or flow. It has always been the same. And yet, for some reason, there are moments when we feel it very differently.
 
-Our Perception of time changes or fluctuates but time itself is constant if I am not mistaken.
+Our perception of time fluctuates, but time itself is constant, if I am not mistaken.
+Could this be rooted in human biology rather than physics?
 
-Could it be related to the human biology and not something purely in physics? 
+Why do we even say that time moves? Or speak of the flow of time? If something moves, it will, regardless of its speed, take a certain amount of time to reach a certain point. In other words, speed depends on time. The less time consumed, the higher the speed.
 
------------
+But why, when describing time, do we use words like move or flow? It is as if we are saying that time itself moves within a certain amount of time, that time requires time in order to flow. How can something require itself? It is like saying that in order to understand how time flows, we must first understand time.
+This may sound absurd, but it is an interesting thought. 
 
-Why do we even say that time moves? Or the flow of time?
-If something moves, regardless of its speed it will take a certain amount of time to reach a certain point.
-Or in other words, speed depends on time. The less time consumed, the higher the speed.
-
-But why when describing time we use terms such as move, or flow? It's as if we are saying that time itself is moving within a certain amount of time or that time requires time for it to flow.
-
-How can it require itself? Or it's like we are saying to figure out how time flows we need to figure out time.
-
-This sounds a bit absurd but it's an interesting thought that came to my mind. It appears like a paradox.
-
-Even though no two rational beings can disagree that time moves forward.
+It appears, in its own way, like a paradox.
+And yet no two rational beings can disagree that time moves forward.
