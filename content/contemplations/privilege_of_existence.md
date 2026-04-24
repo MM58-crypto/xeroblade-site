@@ -3,7 +3,7 @@ title: "Privilege_of_existence"
 date: 2026-04-24T15:09:26+03:00
 #draft: true
 ---
-Multiple speculations and answers have been given to the question "Why were humans created, or why do we exist?" The most straightforward answer can be found in the holy books of the Abrahamic religions, such as the Quran, where Allah says that He created Jinn and humans to worship Him:
+Multiple speculations and answers have been given to the question "Why were humans created, or why do we exist?" The most straightforward answer can be found in the Holy Quran, where Allah says that He created Jinn and humans to worship Him:
 
 
 ![Quran_verse](/verse1.png)
