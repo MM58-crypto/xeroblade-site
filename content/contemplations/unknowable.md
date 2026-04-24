@@ -3,7 +3,7 @@ title: "The Unknowable"
 date: 2026-04-24T15:10:28+03:00
 #draft: true
 ---
-![univ_img](/univ_1.png)
+<!--![univ_img](/univ_1.png)-->
 
 How can one prove the non-existence of something?
 To prove the existence of material things, we must perceive them through one or more of our senses — sight, sound, taste, and so on. However, we cannot be certain that something does not exist based solely on the amount of information available to us today. Gases, for example, are mostly colourless and odourless, yet they undeniably exist.
