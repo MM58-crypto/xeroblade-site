@@ -14,6 +14,6 @@ This website currently lacks a defined purpose. It can be viewed as a blog where
 
 ![arch_pfetch](/neofetch.png)
 
-<!---->### Unrelated Image of the day: 
+<!--### Unrelated Image of the day: 
 ![random img](/wednesday.png) -->
 
