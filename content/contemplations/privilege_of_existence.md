@@ -1,5 +1,5 @@
 ---
-title: "existence"
+title: "Privilege of Existence"
 date: 2026-04-24t14:30:23+03:00
 #draft: true
 ---
