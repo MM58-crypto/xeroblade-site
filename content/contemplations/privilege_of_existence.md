@@ -14,6 +14,7 @@ I have another idea relating to this matter that I have been playing with in my 
 
 While they will need to work for it and ultimately enter Heaven by God's will and mercy, human beings are granted the ultimate privilege; one that no other creature will have or be able to obtain.
 
-Regardless of the many answers given to this question, the fact that humans exist and are given this opportunity can be considered a blessing in itself. In other words, the gift of living, perceiving, and enjoying life is a blessing.
+Regardless of the many answers given to this question, the fact that humans exist and are given this opportunity can be considered a blessing in itself. 
 
-Yes — a blessing they did not choose and cannot choose, but a blessing nonetheless.
+
+
