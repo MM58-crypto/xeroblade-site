@@ -1,7 +1,7 @@
 ---
 title: "Book Recommender"
 date: 2024-08-25T19:25:31+03:00
-#draft: true
+draft: true
 ---
 
 [Github repo](https://github.com/MM58-crypto/Book-recommender)
